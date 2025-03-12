@@ -6,6 +6,8 @@ import QtQuick.Controls.Basic
 
 import QtCore
 
+import FileWatcherAttachedProperty
+
 Window {
     width: 640
     height: 480
